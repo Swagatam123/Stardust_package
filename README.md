@@ -10,7 +10,7 @@ Pyhton 3.7 or above with setuptools instaled.
 
 Download the package directly from github. For linux users
 ```bash
-git clone https://github.com/Swagatam123/Stardust.git
+https://github.com/Swagatam123/Stardust_package.git
 ```
 Download the binary openOrd.jar from the release tag v1.0 and place it under Stardust_package/stardust/run_stardust/
 Change the directoery to the package directory
