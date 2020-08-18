@@ -48,7 +48,7 @@ stardust.run_stardust.run() #generated the coembedding plots under Stardust_resu
 ```
 On run command, you need to provide the expression matrix path and the file format (i.e either "csv" or "10x" ). 
 NOTE: For csv file format, the expression file name should be "expression.csv"
-![alt text](https://github.com/Swagatam123/Stardust_package/blob/run.PNG?raw=true)
+![alt text](blob/run.PNG)
 ## Output Directory structure
 The embedding plots at its related data will be available in Stardust_results/visualization_output/4_pass
 
