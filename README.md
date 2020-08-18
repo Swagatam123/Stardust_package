@@ -55,6 +55,23 @@ NOTE: For csv file format, the expression file name should be "expression.csv"
 ![alt text](blob/sd_color_embedding.png)<!-- -->
 #### co-embedding on UMAP
 ![alt text](blob/umap_color_embedding.png)<!-- -->
+### analysis
+NOTE: To run the analysis functions you need to run the cell-gene co-embedding. 
+#### silhouette co-efficient
+```python
+stardust.analysis.silhouette()
+```
+![alt text](blob/silhouette.png)<!-- -->
+#### marker heatmap
+```python
+stardust.analysis.heatmap()
+```
+![alt text](blob/heatmap.png)<!-- -->
+#### alluvial plot
+```python
+stardust.analysis.alluvial()
+```
+![alt text](blob/alluvial_gold.png)<!-- -->
 ## Output Directory structure
 The embedding plots at its related data will be available in Stardust_results/visualization_output/4_pass
 
