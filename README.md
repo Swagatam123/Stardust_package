@@ -63,7 +63,7 @@ NOTE: To run the analysis functions you need to run the cell-gene co-embedding.
 ```python
 stardust.analysis.silhouette()
 ```
-![alt text](blob/bd.jpg)<!-- -->
+![alt text](blob/silhouette.jpg)<!-- -->
 #### marker heatmap
 ```python
 stardust.analysis.heatmap()
