@@ -52,7 +52,7 @@ NOTE: For csv file format, the expression file name should be "expression.csv"
 ![alt text](blob/run.PNG)
 
 #### co-embedding on Stardust
-<img src="blob/sd_color_embedding.png" alt="drawing" width="200"/>
+<img src="blob/umap_color_embedding.png" width="200">
 #### co-embedding on UMAP
 ![alt text](blob/umap_color_embedding.png)<!-- .element height="20%" width="20%" -->
 ## Output Directory structure
