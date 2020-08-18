@@ -52,9 +52,9 @@ NOTE: For csv file format, the expression file name should be "expression.csv"
 ![alt text](blob/run.PNG)
 
 #### co-embedding on Stardust
-![alt text](blob/umap_color_embedding.png?v=4&s=2)
+<img src="blob/sd_color_embedding.png" width="50" height="50">
 #### co-embedding on UMAP
-![alt text](blob/umap_color_embedding.png)
+<img src="blob/umap_color_embedding.png" width="50" height="50">
 ## Output Directory structure
 The embedding plots at its related data will be available in Stardust_results/visualization_output/4_pass
 
