@@ -38,7 +38,9 @@ stardust.analysis.silhouette() # optional for analysis purpose
 stardust.analysis.heatmap()   # optional for analysis purpose
 stardust.analysis.alluvial()  # optional for analysis purpose
 ```
-## Tutorial
+## Vignette tutorial
+This vignette uses a melanoma data set from the website [here](https://singlecell.broadinstitute.org/single_cell/study/SCP11/melanoma-intra-tumor-heterogeneity) to demonstrate a standard pipeline. This vignette can be used as a tutorial as well.
+
 ### cell-gene co-embedding
 To re-produce the cell-gene co-embedding visualization you need to run the following commands
 
