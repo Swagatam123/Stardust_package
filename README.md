@@ -39,6 +39,7 @@ stardust.analysis.heatmap()   # optional for analysis purpose
 stardust.analysis.alluvial()  # optional for analysis purpose
 ```
 ## Tutorial
+### cell-gene co-embedding
 To re-produce the cell-gene co-embedding visualization you need to run the following commands
 
 ```python
@@ -49,6 +50,11 @@ stardust.run_stardust.run() #generated the coembedding plots under Stardust_resu
 On run command, you need to provide the expression matrix path and the file format (i.e either "csv" or "10x" ). 
 NOTE: For csv file format, the expression file name should be "expression.csv"
 ![alt text](blob/run.PNG)
+
+#### co-embedding on Stardust
+![alt text](blob/sd_color_embedding.PNG)
+#### co-embedding on UMAP
+![alt text](blob/umap_color_embedding.PNG)
 ## Output Directory structure
 The embedding plots at its related data will be available in Stardust_results/visualization_output/4_pass
 
