@@ -1,7 +1,8 @@
 # Stardust
 Python package for cell-gene coembedding and analysis pipeline for single cell transcriptomics data
 
-
+-   [Installation](#installation-guide)
+-   [Usage](#usage)
 ## Environment reqirements
 
 Pyhton 3.7 or above with setuptools instaled.
