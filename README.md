@@ -5,9 +5,9 @@ Python package for cell-gene coembedding and analysis pipeline for single cell t
 -   [Dataset Format](#dataset_support_format)
 -   [Usage](#usage)
 -   [Tutorial](#vignette-tutorial)
-       -  [Co-embedding](#cell-gene_co-embedding)
+       -  [Co-embedding](#cell-gene-co-embedding)
    -   [Analysis](#analysis)
-       -  [Silhouette](#silhouette_co-efficient)
+       -  [Silhouette](#silhouette-co-efficient)
        
 ## Environment reqirements
 
