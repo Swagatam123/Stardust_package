@@ -9,6 +9,7 @@ Python package for cell-gene coembedding and analysis pipeline for single cell t
    -   [Analysis](#analysis)
        -  [Silhouette](#silhouette-co-efficient)
        -  [Marker Heatmap](#marker-heatmap)
+       -  [Alluvial](#alluvial-plot)
        
 ## Environment reqirements
 
