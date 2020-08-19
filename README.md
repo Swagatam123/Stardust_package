@@ -2,11 +2,12 @@
 Python package for cell-gene coembedding and analysis pipeline for single cell transcriptomics data
 
 -   [Installation](#installation-guide)
+-   [Dataset Format](#dataset_support_format)
 -   [Usage](#usage)
 -   [Tutorial](#vignette-tutorial)
        -  [Co-embedding](#cell-gene_co-embedding)
-       -  [analysis](#analysis)
-               -  [silhouette](#silhouette-coefficient)
+   -   [Analysis](#analysis)
+       -  [Silhouette](#silhouette_co_efficient)
                -  [heatmap](#marker_heatmap)
                -  [alluvial](#alluvial_plot)
 ## Environment reqirements
