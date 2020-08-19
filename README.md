@@ -8,6 +8,7 @@ Python package for cell-gene coembedding and analysis pipeline for single cell t
        -  [Co-embedding](#cell-gene-co-embedding)
    -   [Analysis](#analysis)
        -  [Silhouette](#silhouette-co-efficient)
+       -  [Marker Heatmap](#marker-heatmap)
        
 ## Environment reqirements
 
